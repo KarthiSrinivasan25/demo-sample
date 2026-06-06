@@ -425,9 +425,13 @@ startAuto();
 /* PAUSE ON HOVER */
 
 
-    https://asd-tech-creation.vercel.app/
+
 mainCard.addEventListener("mouseenter", stopAuto);
 mainCard.addEventListener("mouseleave", () => {
   if (autoPlay) startAuto();
 });
 </script>
+
+
+
+    https://asd-tech-creation.vercel.app/
