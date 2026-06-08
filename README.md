@@ -447,3 +447,6 @@ mainCard.addEventListener("mouseleave", () => {
 
 
 https://www.exposysdata.com/careers.html
+
+
+https://www.zinavo.com/careers.html
